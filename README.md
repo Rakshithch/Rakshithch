@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Data Analyst & ML Engineer** with **3 years of experience** specializing in healthcare data engineering, advanced analytics, and building end-to-end ML pipelines. I thrive at the intersection of data, technology, and healthcare to drive meaningful outcomes.
+I'm a **Data Analyst & ML Engineer** with **2 years of experience** specializing in healthcare data engineering, advanced analytics, and building end-to-end ML pipelines. I thrive at the intersection of data, technology, and healthcare to drive meaningful outcomes.
 
 - 🏥 **Healthcare Data Expert**: Deep expertise in X12 EDI 837/835, HEDIS, ICD-10 coding, HIPAA compliance, Snowflake, and PySpark-based healthcare data pipelines
 - 📊 **Analytics & Visualization**: Crafting powerful dashboards with Power BI, Tableau, Looker, and DAX to turn raw data into actionable business intelligence
